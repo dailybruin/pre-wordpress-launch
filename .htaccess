@@ -1,0 +1,4 @@
+#AuthType Basic
+#AuthName "restricted area"
+#AuthUserFile /home/code/sites/graphics.dailybruin/newsite/.htpasswd
+#require valid-user
